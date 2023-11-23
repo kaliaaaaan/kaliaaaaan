@@ -26,5 +26,7 @@
 <img src="media/jira-original-wordmark.svg" height="50" width="50">
 </p>
 
-
+### Тестовые проекты
+[![REST API Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kaliaaaaan&repo=api_project&theme=algolia)](https://github.com/kaliaaaaan/api_project)
+[![UI Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kaliaaaaan&repo=qa_guru_21_project_ui_sportsru&theme=algolia)](https://github.com/kaliaaaaan/qa_guru_21_project_ui_sportsru)
 
